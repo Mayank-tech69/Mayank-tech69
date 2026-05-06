@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🌱 I’m currently learning data structure and algorithms <br>💫 I am FOSS CLUB Official Member<br>⚡ Fun fact: I play Chess outside tech<br>
+<br>🌱 I’m currently learning data structure and algorithms <br> <br>⚡ Fun fact: I play Chess outside tech<br>
 
 
 ## 🌐 Socials:
